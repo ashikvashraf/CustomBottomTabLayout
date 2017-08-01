@@ -9,14 +9,14 @@ Simple library for bottom tab layout
 Download via Gradle:
 
 ```gradle
-compile 'com.github.stfalcon:bottomtablayout:0.3'
+compile 'com.github.ashikvashraf:bottomtablayout:0.1'
 ```
 or Maven:
 ```xml
 <dependency>
-  <groupId>com.github.stfalcon</groupId>
+  <groupId>com.github.ashikvashraf</groupId>
   <artifactId>bottomtablayout</artifactId>
-  <version>0.3</version>
+  <version>0.1</version>
   <type>pom</type>
 </dependency>
 ```
